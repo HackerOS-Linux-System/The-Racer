@@ -1,0 +1,28 @@
+{
+    "high_score": 6.846,
+    "championship_standings": {},
+    "settings": {
+        "resolution": [
+            1920,
+            1080
+        ],
+        "fullscreen": true,
+        "controls": {
+            "up": 97,
+            "down": 122,
+            "left": 1073741904,
+            "right": 1073741903,
+            "pit_stop": 103,
+            "drs": 49
+        },
+        "music_volume": 0.0,
+        "sfx_volume": 0.0,
+        "language": "en",
+        "ai_difficulty": "medium",
+        "minimap_enabled": true,
+        "car_collisions": true,
+        "fuel_consumption": "medium",
+        "weather": "sunny",
+        "theme": "default"
+    }
+}
